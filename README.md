@@ -55,6 +55,10 @@
     
     ```bash -h Authorization: Bearer <your-access-token> ```
 
+  - [Generate Access Token](https://developers.facebook.com/docs/graph-api/system-user)
+  - ![image](https://github.com/user-attachments/assets/26c474c0-b887-46e9-8684-f9e18c54e279)
+
+
  ## More references :
 
  - [Meta For Developers: Phone Number](https://developers.facebook.com/docs/whatsapp/cloud-api/phone-numbers/)
