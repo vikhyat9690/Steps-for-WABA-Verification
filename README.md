@@ -28,6 +28,10 @@
 
  - Set up a 6-digit PIN for **two-step verification**. This is **mandatory** for managing your WhatsApp Business API account.
 
+
+ - ![image](https://github.com/user-attachments/assets/4ee20691-885e-48fa-8813-75574c72a6f8)
+
+
 ### Register the Number via API:
 
  - Obtain your phone_number_id from the WhatsApp Business API setup.
@@ -46,6 +50,12 @@
  - Replace <phone_number_id>, <your_access_token>, and <your_6_digit_pin> with your actual values.
 
  - A successful response indicates that the number is registered.
+
+
+ ## Phone number Id and whatsapp business account id:
+
+ ![image](https://github.com/user-attachments/assets/0a3b0130-a736-41bf-835b-d6962abb0df7)
+
 
 ## For Access token:
 
