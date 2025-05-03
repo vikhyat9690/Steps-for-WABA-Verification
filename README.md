@@ -53,9 +53,7 @@
 
  ### Now generate the token and pass in the cURL request:
     
-    ```bash
-    -h Authorization: Bearer <your-access-token>
-    ```
+    ```bash -h Authorization: Bearer <your-access-token> ```
 
  ## More references :
 
